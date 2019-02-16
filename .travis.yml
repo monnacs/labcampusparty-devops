@@ -26,4 +26,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: $HEROKU_API_KEY
-  app: fb437044-aec6-4404-8fca-a69cf2c7dad2
+  app: labcampusparty-devops
